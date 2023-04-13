@@ -52,3 +52,5 @@ return [
         ],
     ],
 ];
+
+// Changed something. This is working really well :D
