@@ -28,3 +28,5 @@ composer.lock
 .phpunit
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+# Changed another file, should resolve nicely.
