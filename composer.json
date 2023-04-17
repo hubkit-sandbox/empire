@@ -69,7 +69,6 @@
         "symfony/symfony": "*"
     },
     "require-dev": {
-        "bamarni/composer-bin-plugin": "^1.2",
         "doctrine/coding-standard": "^5.0",
         "easycorp/easy-log-handler": "^1.0.7",
         "matthiasnoback/symfony-config-test": "^4.0.1",
